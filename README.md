@@ -5,7 +5,7 @@
 This project uses Retell AI to build a voice agent
 for preliminary Loan Against Property eligibility checks.
 
-## Key Features
+## Key Features 
 - Natural and professional voice conversations
 - Collects property and loan information
 - Checks basic eligibility criteria
